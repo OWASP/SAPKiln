@@ -1,0 +1,5 @@
+customtkinter == 5.1.2
+prettytable == 3.6.0
+tk == 0.1.0
+pywin32 == 305
+Pillow == 9.4.0

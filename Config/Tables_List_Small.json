@@ -1,0 +1,13 @@
+{
+  "USR01": "User Master Records",
+  "USR02": "User IDs and Passwords (includes last logon data)",
+  "USH02": "password change history",
+  "VUSR02_PWD": "View containing User IDs and Passwords",
+  "USR40": "Non-permissible password values",
+  "USR04": "User Master Authorizations",
+  "USR10": "Authorization Profiles (i.e. &_SAP_ALL)",
+  "USR11": "User Master Profiles and Descriptions",
+  "USR12": "User Master Authorization Values",
+  "UST04": "User Masters (all Users with profiles)",
+  "UST12": "User Master: Authorizations"
+}

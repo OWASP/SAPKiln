@@ -1,0 +1,18 @@
+{
+  "SE38": "ABAP Editor  (display, edit, execute ABAP source code)",
+  "SA38": "Only allows ABAP source code execution",
+  "SM01": "Lock / unlock transactions",
+  "SM12": "Lock entries",
+  "SM30": "Table Maintenance (can be used to display and update table data)",
+  "SM31": "Table Maintenance (can be used to display and update table data)",
+  "SM32": "Updates Table USR40 with invalid passwords",
+  "SM36/SM37": "Schedule Background Job",
+  "SM49": "Execute external operating system commands",
+  "SM52": "Execute operating system commands",
+  "SM59": "Maintain Remote Function Calls destination definitions",
+  "SM69": "Maintain external commands",
+  "SP01": "Administer print spools",
+  "PFCG": "Role Maintenance (PFCG) can be used to create role and user like SU01",
+  "SU01": "Maintain users, Security Administration transactions (create/delete/lock/unlock user account, change password etc.)",
+  "AL11": "Display all the SAP Directories and files stored on the underlying OS server"
+}
